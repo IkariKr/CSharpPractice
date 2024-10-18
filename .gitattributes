@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Treat binary files as binary
+*.ico binary
+*.dll binary
+*.exe binary
